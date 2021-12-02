@@ -1,0 +1,19 @@
+{
+  "name": "test-js-dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/P0rt/test-js-dom.git",
+  "author": "Ivan",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.3",
+    "jasmine": "^3.10.0",
+    "jest": "^27.4.3",
+    "jsdom": "^18.1.1"
+  }
+}
